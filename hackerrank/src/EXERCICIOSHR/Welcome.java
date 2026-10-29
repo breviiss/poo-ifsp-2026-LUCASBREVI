@@ -1,4 +1,4 @@
-package aula02;
+package EXERCICIOSHR;
 
 public class Welcome {
 

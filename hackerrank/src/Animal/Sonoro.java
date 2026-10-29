@@ -1,5 +1,8 @@
 package Animal;
 
 public interface Sonoro {
-    public void emitirSom();
+    //descreve oq sera realizado
+    //publicos e abstratos (sem corpo)
+
+    void emitirSom();
 }
