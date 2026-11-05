@@ -1,1 +1,1 @@
-# Disciplina de POO - Exerc¡cios 
+# Disciplina de POO - Exercicios 
